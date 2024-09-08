@@ -46,7 +46,8 @@
 ![goal-oriented](https://img.shields.io/badge/goal-oriented-8500fb?style=for-the-badge) 
 ![Active listening](https://img.shields.io/badge/Activelistening-orange?style=for-the-badge)
 ![Active communication](https://img.shields.io/badge/Activecommunication-8500fb?style=for-the-badge)
-![Verbal and written communication](https://img.shields.io/badge/Verbalandwrittencommunication-blue?style=for-the-badge) 
+![Verbal and written communication](https://img.shields.io/badge/Verbalandwrittencommunication-blue?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-FF0033?style=for-the-badge) 
 
 
   <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">
