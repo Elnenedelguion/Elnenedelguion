@@ -13,7 +13,7 @@
 
 :school: Full Stack Developer.
 
-:student: Current Mobile App Development student at Polytechnic of Córdoba, Argentina.
+:student: Current Mobile App student at Polytechnic of Córdoba, Argentina.
 
 :nerd_face:I love learning about everything around us.
 
@@ -40,7 +40,7 @@
 ![Interpersonal communication](https://img.shields.io/badge/Interpersonalcommunication-blue?style=for-the-badge) 
 ![Problem Solving](https://img.shields.io/badge/ProblemSolving-orange?style=for-the-badge) 
 ![Time management](https://img.shields.io/badge/Timemanagement-8500fb?style=for-the-badge) 
-![Productivity](https://img.shields.io/badge/Productividad-00cb67?style=for-the-badge) 
+![Productivity](https://img.shields.io/badge/Productivity-00cb67?style=for-the-badge) 
 ![Coworking](https://img.shields.io/badge/Coworking-FF0033?style=for-the-badge) 
 ![Business Agility](https://img.shields.io/badge/Business%20Agility-ddd?style=for-the-badge)
 ![goal-oriented](https://img.shields.io/badge/goal-oriented-8500fb?style=for-the-badge) 
