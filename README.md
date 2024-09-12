@@ -1,5 +1,5 @@
 ## <img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
-<h1 align="center"><strong>Welcome to my profile, I'm Eduardo Iuorio</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><strong>Welcome to my profile, I'm Edu Iuorio</strong><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=NOTHING+IS+ENTIRELY+TRUE,;NOTHING+IS+ENTIRELY+FALSE.;EVERYTHING+IS+RELATIVE,;TRUTH+IS+A+SHADOW,;OF+THE+ONE+WHO+HOLDS+IT."></a><img align="right" src="https://github.com/user-attachments/assets/c0e68610-0f7e-43f6-b1a7-8faf905d7417" width = 80px>
 </p>
