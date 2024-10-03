@@ -17,7 +17,7 @@
 
 :nerd_face:I love learning about everything around us.
 
-🌱 &nbsp;I'm deepening my knowledge in cybersecurity.
+🌱 &nbsp;I'm deepening my knowledge.
 
 ✍️ &nbsp;In my free time, I enjoy reading.
 
