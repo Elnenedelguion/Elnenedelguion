@@ -27,7 +27,7 @@
 
 :boom:[B2 Level](https://cert.efset.org/qAyz7k)
 
-📄 &nbsp;My [CV](https://drive.google.com/file/d/15QEcBrRa40CzNL3rFIFI-H6ZVeDpZwEf/view?usp=sharing)
+📄 &nbsp;My [CV](https://drive.google.com/file/d/1uzRwmh3pyyerU2o7JObF0B7m7OmkVF37/view?usp=sharing)
 
 ✉️ &nbsp;<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> 
 <br>
