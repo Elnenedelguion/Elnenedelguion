@@ -202,4 +202,5 @@
 <p align="center">
 <a href="mailto:eclipseigconsultora@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a></p>
 <p align="center">HR Consulting Firm Mail</p>
-<br><em>I´d love to share with all kind of people around the world,</b> so feel free to say hi!.</em>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> I´d love to share with all kind of people around the world,</b> so feel free to say hi!.</em> 🫣
