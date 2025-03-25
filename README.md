@@ -171,7 +171,7 @@
        <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
        </a>
-       <p>Last Edition: 25/03/2024</p>
+       <p>Last Edition: 25/03/2025</p>
 </div>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
