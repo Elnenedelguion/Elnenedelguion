@@ -13,7 +13,7 @@
 
 :school: Full Stack Developer.
 
-:student: Current Mobile App student at Polytechnic of Córdoba, Argentina.
+👷‍♂️: Co-founder Consultora Eclipe I|G Córdoba, Argentina.
 
 :nerd_face:I love learning about everything around us.
 
@@ -25,7 +25,7 @@
 
 :thinking: Open to new journeys.
 
-:boom:[B2 Level](https://cert.efset.org/qAyz7k)
+:boom:[B2 Level](https://cert.efset.org/qAyz7k), but my English is like: hold my beer, I'm leveling up! 🚀🤫
 
 📄 &nbsp;My [CV](https://drive.google.com/file/d/1uzRwmh3pyyerU2o7JObF0B7m7OmkVF37/view?usp=sharing)
 
