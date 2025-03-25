@@ -13,23 +13,21 @@
 
 :school: Full Stack Developer.
 
-👷‍♂️: Co-founder Consultora Eclipe I|G Córdoba, Argentina.
+👷‍♂️ Co-founder Consultora Eclipe I|G Córdoba, Argentina.
 
-:nerd_face:I love learning about everything around us.
+👮 Former Sergeant, Cordoba Police Department.
 
-🌱 &nbsp;I'm deepening my knowledge.
+:nerd_face: Love learning about everything around us.
 
 ✍️ &nbsp;In my free time, I enjoy reading.
 
 💬 &nbsp;I'm passionate about helping.
 
-:thinking: Open to new journeys.
+:thinking: Always open to new journeys.
 
-:boom:[B2 Level](https://cert.efset.org/qAyz7k), but my English is like: hold my beer, I'm leveling up! 🚀🤫
+:boom:[B2 Level](https://cert.efset.org/qAyz7k), but my English is like: hold my beer, I'm sliding into that C1 zone 🚀🤫! 
 
-📄 &nbsp;My [CV](https://drive.google.com/file/d/1uzRwmh3pyyerU2o7JObF0B7m7OmkVF37/view?usp=sharing)
-
-✉️ &nbsp;<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> 
+<a href="mailto:eduiuorio@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a> Txt me.
 <br>
 <!--Soft Skills-->
 
@@ -173,7 +171,7 @@
        <a href="https://github.com/Elnenedelguion" target="_blank" rel="noreferrer">
        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
        </a>
-       <p>Last Edition: 09/08/2024</p>
+       <p>Last Edition: 25/03/2024</p>
 </div>
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h2>
 
@@ -189,6 +187,19 @@
             <img src="https://github.com/user-attachments/assets/f1e69b21-c36c-4f2e-bb49-28b30a5d2e8a"></a>
         <a href="https://medium.com/@eduiuorio" target="blank">
             <img src="https://github.com/user-attachments/assets/8279637f-b7c3-482d-8129-a5fbbfe156c7"></a>  
-     </div>
-</p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b> I´d love to share with all kind of people around the world,</b> so feel free to say hi!.</em> 🫣
+	
+		
+<p align="center">
+    <div align="center"  class="icons-social" style="margin-left: 10px;">
+	    <a href="https://www.instagram.com/elnenedelguion" target="_blank">
+            <img src="https://img.shields.io/badge/Instagram-@elnenedelguion-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+	<a href="https://www.instagram.com/eclipseconsultora.ok" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-@eclipseconsultora.ok-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+	</a>
+	</p></div>
+
+    
+<p align="center">
+<a href="mailto:eclipseigconsultora@gmail.com"><img src="https://github.com/user-attachments/assets/55ea4753-557d-4bfd-ba0f-007c56f7a44b" alt="Gmail" width = '50px'></a></p>
+<p align="center">HR Consulting Firm Mail</p>
+<br><em>I´d love to share with all kind of people around the world,</b> so feel free to say hi!.</em>
